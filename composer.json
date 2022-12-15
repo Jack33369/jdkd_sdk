@@ -1,5 +1,5 @@
 {
-    "name": "lop/lop-opensdk-php",
+    "name": "bnyx/jdkd_sdk",
     "type": "library",
     "version": "1.0.0",
     "autoload": {
